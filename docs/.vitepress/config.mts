@@ -44,6 +44,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '关于', link: '/about' },
+      { text: 'git基本操作', link: '/git' },
     ],
     socialLinks: [
       {
